@@ -1,5 +1,4 @@
-{
-    "produtos":    [
+ [
       {
         "Imagem": "/assets/Desktop/Cards/Camiseta.png",
         "Nome": "Camiseta Conforto",
@@ -45,4 +44,3 @@
         "Categoria": "Oculos"
       }
     ]
-}
