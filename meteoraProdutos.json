@@ -13,14 +13,14 @@
         "Descrição":
           "Modelo Wide Leg alfaiataria em linho. Uma peça pra vida toda!",
         "Preço": 180.0,
-        "Categoria": "Calcas"
+        "Categoria": "Calças"
       },
       {
         "Imagem": "/assets/Desktop/Cards/Tenis.png",
         "Nome": "Tênis Chunky",
         "Descrição": "Snicker casual com solado mais alto e modelagem robusta. Modelo unissex.",
         "Preço": 250.0,
-        "Categoria": "Calcados"
+        "Categoria": "Calçados"
       },
       {
         "Imagem": "/assets/Desktop/Cards/Jaqueta.png",
