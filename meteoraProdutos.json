@@ -42,5 +42,97 @@
         "Descrição": "Armação metálica em grafite com lentes arredondadas. Sem erro!",
         "Preço": 120.0,
         "Categoria": "Óculos"
-      }
+      },
+   {
+    "Imagem": "/assets/Desktop/Cards/Vestido.png",
+    "Nome": "Vestido Floral",
+    "Descrição": "Vestido leve com estampa floral, perfeito para dias ensolarados. Tecido confortável e caimento elegante.",
+    "Preço": 120.0,
+    "Categoria": "Camisetas"
+  },
+  {
+    "Imagem": "/assets/Desktop/Cards/Sapato.png",
+    "Nome": "Sapato Social",
+    "Descrição": "Sapato social em couro legítimo. Ideal para ocasiões formais e eventos especiais.",
+    "Preço": 180.0,
+    "Categoria": "Calçados"
+  },
+  {
+    "Imagem": "/assets/Desktop/Cards/Moletom.png",
+    "Nome": "Moletom Aconchego",
+    "Descrição": "Moletom macio e confortável, perfeito para os dias frios. Estilo e conforto em uma peça só.",
+    "Preço": 80.0,
+    "Categoria": "Casacos"
+  },
+  {
+    "Imagem": "/assets/Desktop/Cards/Relogio.png",
+    "Nome": "Relógio Elegance",
+    "Descrição": "Relógio analógico com pulseira de couro. Design clássico e sofisticado para todas as ocasiões.",
+    "Preço": 150.0,
+    "Categoria": "Acessórios"
+  },
+  {
+    "Imagem": "/assets/Desktop/Cards/Saia.png",
+    "Nome": "Saia Midi",
+    "Descrição": "Saia midi plissada em tecido leve. Versátil e feminina para compor diversos looks.",
+    "Preço": 90.0,
+    "Categoria": "Calças"
+  },
+  {
+    "Imagem": "/assets/Desktop/Cards/Camisa.png",
+    "Nome": "Camisa Social",
+    "Descrição": "Camisa social elegante em algodão premium. Perfeita para ocasiões formais e trabalho.",
+    "Preço": 130.0,
+    "Categoria": "Casacos"
+  },
+  {
+    "Imagem": "/assets/Desktop/Cards/Chapeu.png",
+    "Nome": "Chapéu de Palha",
+    "Descrição": "Chapéu estilo boho em palha natural. Proteção e estilo para os dias de sol.",
+    "Preço": 40.0,
+    "Categoria": "Acessórios"
+  },
+  {
+    "Imagem": "/assets/Desktop/Cards/Blazer.png",
+    "Nome": "Blazer Moderno",
+    "Descrição": "Blazer moderno em tecido sintético. Ideal para compor looks sofisticados e urbanos.",
+    "Preço": 160.0,
+    "Categoria": "Casacos"
+  },
+  {
+    "Imagem": "/assets/Desktop/Cards/Shorts.png",
+    "Nome": "Shorts Esportivo",
+    "Descrição": "Shorts esportivo em tecido tecnológico. Conforto e estilo para práticas esportivas.",
+    "Preço": 60.0,
+    "Categoria": "Calças"
+  },
+  {
+    "Imagem": "/assets/Desktop/Cards/Pulseira.png",
+    "Nome": "Pulseira Minimalista",
+    "Descrição": "Pulseira minimalista em prata. Complemento perfeito para qualquer estilo.",
+    "Preço": 25.0,
+    "Categoria": "Acessórios"
+  },
+  {
+    "Imagem": "/assets/Desktop/Cards/Regata.png",
+    "Nome": "Regata Básica",
+    "Descrição": "Regata básica em algodão. Peça curinga para composições casuais.",
+    "Preço": 45.0,
+    "Categoria": "Camisetas"
+  },
+  {
+    "Imagem": "/assets/Desktop/Cards/Brincos.png",
+    "Nome": "Brincos Elegantes",
+    "Descrição": "Brincos elegantes em ouro rosa. Destaque sua feminilidade com esse acessório refinado.",
+    "Preço": 70.0,
+    "Categoria": "Acessórios"
+  },
+  {
+    "Imagem": "/assets/Desktop/Cards/Cinto.png",
+    "Nome": "Cinto de Couro",
+    "Descrição": "Cinto em couro legítimo com fivela clássica. Complemento perfeito para qualquer calça ou saia.",
+    "Preço": 55.0,
+    "Categoria": "Acessórios"
+  }
+    
     ]
