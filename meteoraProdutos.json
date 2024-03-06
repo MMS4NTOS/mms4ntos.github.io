@@ -154,6 +154,20 @@
   "Descrição": "Sapato feminino em couro nude. Design elegante e salto confortável para qualquer ocasião especial.",
   "Preço": 150.0,
   "Categoria": "Calçados"
-}
+}, 
+ {
+    "Imagem": "/assets/Desktop/Cards/Blusa.png",
+    "Nome": "Blusa de Tricô",
+    "Descrição": "Blusa de tricô em tom neutro. Confortável e elegante para dias mais frescos.",
+    "Preço": 70.0,
+    "Categoria": "Casuais"
+  }, 
+    {
+    "Imagem": "/assets/Desktop/Cards/Jaqueta2.png",
+    "Nome": "Jaqueta de Couro",
+    "Descrição": "Jaqueta de couro sintético preta. Estilo rebelde para um look urbano e descolado.",
+    "Preço": 180.0,
+    "Categoria": "Casacos"
+  }
     
     ]
