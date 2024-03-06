@@ -133,6 +133,27 @@
     "Descrição": "Cinto em couro legítimo com fivela clássica. Complemento perfeito para qualquer calça ou saia.",
     "Preço": 55.0,
     "Categoria": "Acessórios"
-  }
+  }, 
+  {
+    "Imagem": "/assets/Desktop/Cards/Bolsa2.png",
+    "Nome": "Bolsa Elegante",
+    "Descrição": "Bolsa preta em couro legítimo. Design moderno e espaçoso para atender às suas necessidades diárias.",
+    "Preço": 120.0,
+    "Categoria": "Bolsas"
+  },
+  {
+    "Imagem": "/assets/Desktop/Cards/Bolsa3.png",
+    "Nome": "Bolsa de Ombro",
+    "Descrição": "Bolsa de ombro marrom em material sintético. Prática e estilosa para todas as ocasiões.",
+    "Preço": 80.0,
+    "Categoria": "Bolsas"
+  },
+{
+  "Imagem": "/assets/Desktop/Cards/SapatoFeminino.png",
+  "Nome": "Sapato Feminino Elegante",
+  "Descrição": "Sapato feminino em couro nude. Design elegante e salto confortável para qualquer ocasião especial.",
+  "Preço": 150.0,
+  "Categoria": "Calçados"
+}
     
     ]
